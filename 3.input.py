@@ -2,7 +2,7 @@
 
 #age = int(input("What is your age?: "))
 
-
+#Rectangle Area Calc
 length = int(input("Enter the length: "))
 width= int(input("Enter the width: "))
 

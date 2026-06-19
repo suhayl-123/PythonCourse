@@ -6,3 +6,5 @@ is_student = True
 gpa = int(gpa)
 
 age = float(age)
+
+name = bool(name)
